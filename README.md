@@ -14,7 +14,7 @@ Un sito statico, responsive e accessibile che mostra una raccolta di ricette cul
 - [🛠 Tech Stack](#-tech-stack)  
 - [🚀 Getting Started](#-getting-started)  
   - [Prerequisites](#-prerequisites)  
-  - [Installation](#-installation)  
+
 ---
 
 ## 🎯 Overview
